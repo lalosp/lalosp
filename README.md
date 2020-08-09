@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my personal web page.
+- 🌱 I’m currently learning HTML
+- 📫 How to reach me: +52 (311) 203 7022
