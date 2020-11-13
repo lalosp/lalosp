@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **lalosp/lalosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my personal web page.
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning NodeJS and ElectronJS.
 - 📫 How to reach me: +52 (311) 203 7022
-- ⚡ Fun fact: I know Spanish.
+- ⚡ Fun fact: I love to use Linux and Unix environments.
