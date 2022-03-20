@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my personal web page.
-- 🌱 I’m currently learning NodeJS and ElectronJS.
-- 📫 How to reach me: +52 (311) 203 7022
-- ⚡ Fun fact: I love to use Linux and Unix environments.
+- 🔭 I’m currently working at Heteria
+- 🌱 I’m currently learning Angular and Laravel
+- 📫 How to reach me: ed.sand.pol@gmail.com
+- ⚡ Fun fact: I love to use Linux
